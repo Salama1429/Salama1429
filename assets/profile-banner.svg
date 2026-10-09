@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Enterprise AI. From architecture to delivery.</title>
+  <desc id="desc">A navy and teal banner for Mohamed Salama, specializing in AI agents, retrieval, and Arabic speech.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101f30"/>
+      <stop offset="1" stop-color="#09131e"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#28505a"/>
+      <stop offset="1" stop-color="#72decb"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#87b5c1" opacity="0.13"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect x="790" width="490" height="340" rx="18" fill="url(#grid)"/>
+  <path d="M64 58h40" stroke="#72decb" stroke-width="4"/>
+  <text x="118" y="64" fill="#92b7c3" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">ENGINEERING WITH PURPOSE</text>
+  <text x="60" y="151" fill="#f2f6fb" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="700" letter-spacing="-2">Enterprise AI.</text>
+  <text x="64" y="208" fill="#d0dce7" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="400" letter-spacing="-0.7">From architecture to delivery.</text>
+  <text x="64" y="282" fill="#72decb" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">AGENTS / RETRIEVAL / ARABIC SPEECH</text>
+  <g fill="none" stroke="url(#trace)" stroke-width="2">
+    <path d="M860 101h80q18 0 18 18v104q0 18 18 18h67"/>
+    <path d="M860 171h214"/>
+    <path d="M860 241h42q18 0 18-18V119q0-18 18-18h138"/>
+  </g>
+  <g fill="#102d36" stroke="#4f9e99" stroke-width="1.5">
+    <rect x="824" y="77" width="49" height="49" rx="12"/>
+    <rect x="824" y="147" width="49" height="49" rx="12"/>
+    <rect x="824" y="217" width="49" height="49" rx="12"/>
+  </g>
+  <g fill="#72decb">
+    <circle cx="848.5" cy="101.5" r="5"/>
+    <circle cx="848.5" cy="171.5" r="5"/>
+    <circle cx="848.5" cy="241.5" r="5"/>
+  </g>
+  <g fill="#122534" stroke="#426575" stroke-width="1.5">
+    <rect x="1044" y="68" width="153" height="67" rx="12"/>
+    <rect x="1075" y="138" width="122" height="67" rx="12"/>
+    <rect x="1044" y="208" width="153" height="67" rx="12"/>
+  </g>
+  <g fill="#b9ced8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" text-anchor="middle">
+    <text x="1120" y="106">DESIGN</text>
+    <text x="1136" y="177">BUILD</text>
+    <text x="1120" y="246">DELIVER</text>
+  </g>
+</svg>

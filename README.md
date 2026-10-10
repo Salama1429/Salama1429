@@ -40,6 +40,18 @@ Currently **AI Technical Lead at Elm**, focused on on-premises agents, retrieval
 
 My production experience includes private systems. Explore a public product and selected public prototypes below.
 
+### HumanEcho · Bilingual AI SaaS
+
+Turn professional context, source material, or your own idea into an editable LinkedIn draft in English or Arabic. Optional voice training, explicit credit costs, and a review step keep the author in control.
+
+**Engineering:** Next.js · TypeScript · Supabase Auth/PostgreSQL · AI SDK · Stripe · Vercel
+
+**Delivery:** Real browser testing, live model evaluation, workspace authorization, failure recovery, and automated release checks.
+
+[Explore HumanEcho →](https://www.humanecho.ai/en) &nbsp; · &nbsp; [Read the engineering case study →](case-studies/humanecho/README.md)
+
+<a href="./case-studies/humanecho/README.md"><img src="./case-studies/humanecho/assets/editor-en-desktop.png" alt="HumanEcho editor, AI Coach and LinkedIn preview using synthetic demo content" width="100%" /></a>
+
 <table>
 <tr>
 <td width="50%" valign="top">
